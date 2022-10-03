@@ -63,6 +63,8 @@ This repository contains collection of portfolio's from various open source enth
 
 [10. Baihaki Al Biruni](https://baihakialbiruni.dev)
 
+[11. Beer idev](https://beer-idev.com/)
+
 ## Contact
 
 If you guys have any doubts you can contact me here:
